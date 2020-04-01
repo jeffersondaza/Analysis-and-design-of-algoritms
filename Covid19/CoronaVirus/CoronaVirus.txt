@@ -1,0 +1,33 @@
+Argentina	502	9
+Paraguay	41	3
+Bolivia	43	0
+Peru	580	9
+Ecuador	1403	34
+Brasil	2915	77
+Venezuela	106	0
+Antigua y Barbuda	7	0
+Bahamas	9	0
+Belice	2	0
+Canada	3909	38
+Colombia	491	6
+Costa Rica	231	2
+Cuba	67	1
+Republica Dominicana	488	10
+El Salvador	13	0
+Estados Unidos	83507	1201
+Granada	7	0
+Guatemala	24	1
+Guyana	5	1
+Haiti	8	0
+Honduras	52	1
+Hamaica	26	1
+Mexico	475	6
+Nicaragua	2	0
+Panama	558	8
+Dominica	11	0
+San Cristobal y Nieves	2	0
+San Vicente y Las Granadinas	1	0
+Santa Lucia	3	0
+Surinam	8	0
+Trinidad y Tobago	65	1
+Uruguay	217	0
