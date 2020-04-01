@@ -1,5 +1,5 @@
 # Analysis-and-design-of-algoritms
-Course developed at the university of San Suenaventura
+Course developed at the university of San Buenaventura
 
 # Repositorio Jefferson Daza
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
