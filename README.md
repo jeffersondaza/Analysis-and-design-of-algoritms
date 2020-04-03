@@ -7,7 +7,7 @@ Course developed at the university of San Buenaventura
 
 | Taller o Algoritmo | Nombre carpeta |
 | ------ | ------ |
-| Algoritmos de ordenamiento| taller3 |
+| Algoritmos de ordenamiento| algoritmos_ordenamiento |
 | Ejercicios de maraton | Ejercicios_maraton |
 | Taller 2 | taller2 |
 | Taller 3 | covid19 - taller3 |
