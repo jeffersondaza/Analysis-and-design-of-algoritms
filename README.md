@@ -5,7 +5,7 @@ Course developed at the university of San Buenaventura
 
 # Repositorio Jefferson Daza
 
-| Taller o Algoritmo | Nombre de la carpeta |
+| Actividades | Nombre de la carpeta |
 | ------ | ------ |
 | Algoritmos de ordenamiento| algoritmos_ordenamiento |
 | Ejercicios de maraton | Ejercicios_maraton |
