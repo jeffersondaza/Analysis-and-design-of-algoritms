@@ -12,4 +12,5 @@ Course developed at the university of San Buenaventura
 | Taller 2 | taller2 |
 | Taller 3 | covid19 |
 | Taller 4 | Taller 4 |
+| Parcial primer corte | Parcial 1 |
 | Parcial segundo corte | Parcial 2 |
